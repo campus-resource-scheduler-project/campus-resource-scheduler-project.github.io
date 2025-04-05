@@ -5,6 +5,6 @@ show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: true
-  repository_url: https://github.com/campus-resource-scheduler-project/campus-resource-scheduler
+  repository_url: https://github.com/campus-resource-scheduler-project/campus-resource-scheduler-project.github.io
 gems:
   - jekyll-mentions
