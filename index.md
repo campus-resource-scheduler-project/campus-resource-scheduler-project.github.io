@@ -58,10 +58,3 @@ An end-to-end scenario of using the system:
 - Admin enters landing page, logs into the system, and monitors website activity.
 - Admin modifies the availability of specific items/rooms based on current events.
 
-## Beyond the basics
-
-After implementing the basic functionality, here are ideas for more advanced features:
-- An option for users to put up their resources to contribute as a common campus resource.
-- A timeline for each item's availability if unavailable on certain periods of time and when they will be available again.
-- A page to report any issues or concerns with borrowed equipment/locations.
-- Notify users through email or SMS when a particular resource is available for scheduling.
