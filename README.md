@@ -1,1 +1,1 @@
-This repo contains the documentation for the BowFolios system. See [index.md](index.md) for the source, or go to [https://campus-resource-scheduler-project.github.io](https://campus-resource-scheduler-project.github.io).
+This repo contains the documentation for the Campus Resouce Scheduler project. See [index.md](index.md) for the source, or go to [https://campus-resource-scheduler-project.github.io](https://campus-resource-scheduler-project.github.io).
