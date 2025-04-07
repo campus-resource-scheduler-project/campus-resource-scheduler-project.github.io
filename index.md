@@ -58,3 +58,8 @@ An end-to-end scenario of using the system:
 - Admin enters landing page, logs into the system, and monitors website activity.
 - Admin modifies the availability of specific items/rooms based on current events.
 
+## Page Mockups
+
+The following 5 page mockups will display the main functionality of the application.
+
+![](images/home-page.png)
