@@ -1,2 +1,1 @@
-# campus-resource-scheduler-project.github.io
-E56: Create a GitHub organization and home page
+This repo contains the documentation for the BowFolios system. See [index.md](index.md) for the source, or go to [https://campus-resource-scheduler-project.github.io](https://campus-resource-scheduler-project.github.io).
