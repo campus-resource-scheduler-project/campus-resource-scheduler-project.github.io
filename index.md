@@ -62,4 +62,8 @@ An end-to-end scenario of using the system:
 
 The following 5 page mockups will display the main functionality of the application.
 
+### Home Page:
+
 ![](images/home-page.png)
+
+**Campus Resource Scheduler** will have a home page displaying the main functions of the website: browsing available rooms, browsing available equipment, looking over the equipment a user has already borrowed, or conversing with the ResourceAI to find recommendations for helpful items for specific users. 
