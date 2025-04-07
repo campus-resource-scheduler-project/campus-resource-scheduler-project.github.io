@@ -67,3 +67,27 @@ The following 5 page mockups will display the main functionality of the applicat
 ![](images/home-page.png)
 
 **Campus Resource Scheduler** will have a home page displaying the main functions of the website: browsing available rooms, browsing available equipment, looking over the equipment a user has already borrowed, or conversing with the ResourceAI to find recommendations for helpful items for specific users. 
+
+### Profile Page:
+
+![](images/profile-page.png)
+
+The profile page for each user can be customized to show their contact information, biography, home campus, class standing, resource reviews, and things they have borrowed. 
+
+### Available Equipment Page:
+
+![](images/equipment-page.png)
+
+The equipment page of the application is the central hub for all physical resources of the application. Here, users can browse what specific items they may need and also sort items based on relevance, campus, and rating.
+
+### Available Rooms Page:
+
+![](images/rooms-page.png)
+
+Like the equipment page, the rooms page is the central hub for all locational resources of the application, Here, users can browse what specific rooms they may need for their occasion and also sort rooms based on location, campus, and rating.
+
+### Your Equipment Page:
+
+![](images/your-equipment-page.png)
+
+This page is the informational panel for users who are currently borrowing physical equipment or in-person spaces at any particular campus. Here, users can see what resources they are borrowing, its type, and its return deadline. 
