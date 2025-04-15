@@ -1,3 +1,21 @@
+<img src="images/vercel.png">
+
+## Deployment with Vercel
+
+To make Campus Resource Scheduler easily accessible to the UH Mānoa community, we’ve deployed our application using Vercel, a powerful platform for frontend frameworks and static sites. Vercel streamlines the deployment process, offering continuous integration with GitHub and automatic updates every time changes are pushed to the main branch.
+
+With Vercel, our team is able to:
+- Deploy new features quickly with minimal setup
+- Preview changes via deployment previews
+- Scale efficiently to accommodate traffic from students and administrators
+
+## Live Website
+
+You can access the deployed Campus Resource Scheduler here:
+- https://campus-resource-scheduler-project.vercel.app/
+
+Feel free to explore the features we’ve implemented, from equipment and room scheduling to AI-powered recommendations. This platform aims to improve how UH Mānoa students discover and access the campus resources they need.
+
 ## Overview 
 
 As a fellow student attending the University of Hawaiʻi at Mānoa, I have often wished for a piece of equipment I needed for one of my classes, a private room for a study group, or another student that could benefit from my old material used in past computer science classes. Glancing at the ideas proposed in the final project brainstorm outline, my group and I knew we could add a new fundamental website project designed to help UH Mānoa students obtain common campus resources. Therefore, we propose **Campus Resource Scheduler** as our final ICS 314 project.
