@@ -83,12 +83,6 @@ An end-to-end scenario of using the system:
 - Admin enters landing page, logs into the system, and monitors website activity.
 - Admin modifies the availability of specific items/rooms based on current events.
 
-## Milestone 1 
-
-You can access our Milestone 1 Dashboard here:
-
-[https://github.com/orgs/campus-resource-scheduler-project/projects/1](https://github.com/orgs/campus-resource-scheduler-project/projects/1)
-
 ## Page Mockups
 
 The following 5 page mockups will display the main functionality of the application.
@@ -123,6 +117,12 @@ Like the equipment page, the rooms page is the central hub for all locational re
 
 This page is the informational panel for users who are currently borrowing physical equipment or in-person spaces at any particular campus. Here, users can see what resources they are borrowing, its type, and its return deadline. 
 
+## Milestone 1 
+
+You can access our Milestone 1 Dashboard here:
+
+[https://github.com/orgs/campus-resource-scheduler-project/projects/1](https://github.com/orgs/campus-resource-scheduler-project/projects/1)
+
 ## Milestone 2
 
 You can access our Milestone 2 Dashboard here:
@@ -134,3 +134,12 @@ You can access our Milestone 2 Dashboard here:
 You can access our Milestone 3 Dashboard here:
 
 [https://github.com/orgs/campus-resource-scheduler-project/projects/4](https://github.com/orgs/campus-resource-scheduler-project/projects/4)
+
+# Overview
+
+# User Guide
+
+# Developer Guide
+
+# Community Feedback
+
