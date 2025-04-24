@@ -3,6 +3,7 @@
 ## Team Contract
 
 You can access our team agreed team contract here:
+
 [https://docs.google.com/document/d/1dpHfMn3FyFn8EcrtqpR5pqBB7FA7-DTHXISeKFNhwgE/edit?usp=sharing](https://docs.google.com/document/d/1dpHfMn3FyFn8EcrtqpR5pqBB7FA7-DTHXISeKFNhwgE/edit?usp=sharing)
 
 
@@ -85,6 +86,7 @@ An end-to-end scenario of using the system:
 ## Milestone 1 
 
 You can access our Milestone 1 Dashboard here:
+
 [https://github.com/orgs/campus-resource-scheduler-project/projects/1](https://github.com/orgs/campus-resource-scheduler-project/projects/1)
 
 ## Page Mockups
@@ -124,9 +126,11 @@ This page is the informational panel for users who are currently borrowing physi
 ## Milestone 2
 
 You can access our Milestone 2 Dashboard here:
+
 [https://github.com/orgs/campus-resource-scheduler-project/projects/2](https://github.com/orgs/campus-resource-scheduler-project/projects/2)
 
 ## Milestone 3
 
 You can access our Milestone 3 Dashboard here:
+
 [https://github.com/orgs/campus-resource-scheduler-project/projects/4](https://github.com/orgs/campus-resource-scheduler-project/projects/4)
