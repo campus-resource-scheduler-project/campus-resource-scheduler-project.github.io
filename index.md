@@ -120,9 +120,21 @@ Users who engage with the CRS application will be able to customize their profil
 
 This section provides a detailed walkthrough of the Campus Resource Scheduler user interface, its pages, and its functionalities.
 
+### Landing Page
+
 ![](images/landing.png)
 
-![](images/home.png)
+The landing page is presented to everyone who visits the top-level URL to the website. Here the website displays some of its features to those who have not signed in yet.
+
+### Sign Up and Sign In Pages
+
+If a new user is accessing the website, they have the option to register as a new user by clicking the "Login" button in the upper right corner of the page, clicking "Sign Up", registering their email address, and deciding on a password. 
+
+If an existing user is accessing the website, they can sign in to the website by clicking the "Login" button in the upper right corner of the page, clicking "Sign In", entering their email address, and inputting their password. 
+
+### Home Page
+
+Once the user logs in, they will have more options presented to them. They will be able to choose between borrowing equipment, borrowing rooms, looking at what resources they have borrowed, or using the AI chatbot focused on helping them find the right resource.
 
 # Developer Guide
 
