@@ -23,7 +23,7 @@ You can access the deployed Campus Resource Scheduler here:
 
 Feel free to explore the features we’ve implemented, from equipment and room scheduling to AI-powered recommendations. This platform aims to improve how UH Mānoa students discover and access the campus resources they need.
 
-## Overview 
+## Project Overview 
 
 As a fellow student attending the University of Hawaiʻi at Mānoa, I have often wished for a piece of equipment I needed for one of my classes, a private room for a study group, or another student that could benefit from my old material used in past computer science classes. Glancing at the ideas proposed in the final project brainstorm outline, my group and I knew we could add a new fundamental website project designed to help UH Mānoa students obtain common campus resources. Therefore, we propose **Campus Resource Scheduler** as our final ICS 314 project.
 
@@ -137,9 +137,19 @@ You can access our Milestone 3 Dashboard here:
 
 # Overview
 
+Welcome to the documentation of the Campus Resource Scheduler application! As a part of the UH community, this project team wanted to solve a problem common to all students attending school on a UH campus - where to borrow a resource that they will need for some time? The Campus Resource Scheduler or CRS application aims to solve this problem by providing a central hub of both physical resources and locational resources to any UH community member who may need it for a set time. This system stores an online database of available resources that users can choose from, pick up at a specified location, and return to the same location. 
+
+Many applications of the CRS apply to the everyday lives of UH community members. Individuals who forgot to bring an important piece of equipment such as a writing utensil can use the CRS to quickly and easily borrow that piece of equipment for use and return it later. Additionally, individuals who may be going to a special or important event such as an exam can also use the CRS to retrieve an essential resource that they need for that event. Furthermore, physical spaces such as study rooms and labs are also covered by the CRS, so that UH community members who are looking for a space to complete a particular task can effortlessly rent the space for a set period of time. The CRS at its core aims to serve the UH community through providing an easy-to-use interface for borrowing all sorts of items related to academic life.
+
+Users who engage with the CRS application will be able to customize their profile, quickly search for relevant resources to borrow, and see all the relevant details that are attributed to each resource, such as category, location, campus, appearance, and the date that it was made available. The user will also be able to filter through all of these classifications and find the resource that they most need. Additionally, there is a helper AI chatbot that will direct the user towards relevant resources to borrow based on their profile and what the user needs at that time. On the whole, the Campus Resource Scheduler will be able to suit the needs of any UH community member who is looking for a specific campus resource.
+
 # User Guide
+
+
 
 # Developer Guide
 
-# Community Feedback
 
+
+# Community Feedback
+**TBA**
