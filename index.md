@@ -39,15 +39,6 @@ As a web project centered around the UH Mānoa community, the **Campus Resource 
 
 As users decide what item to request or what room to schedule to fit their needs, an AI-powered algorithm can be added to recommend specific resources that are available to students. The user can also give the AI custom message requests and receive recommendations from that request. Using natural language processing and machine learning, the AI can process the user's custom message request and generate a response and recommendation based on that specific request. AI will also be able to gather information from the student's profile from profile creation, classify the user based on their profile, and generate a custom dashboard that displays available items/rooms for scheduling. The AI will only choose available resources, and also gives advice on how to use specific resources to users who may be considering scheduling the resources.
 
-## The Group Behind the Project
-
-This is the group that will be working on the **Campus Resource Scheduler**.
-- Arthur Acenas ([https://acenasa.github.io/](https://acenasa.github.io/))
-- Eric Chae ([https://ericc808.github.io/](https://ericc808.github.io/))
-- Sungwon Han ([https://hanswhan.github.io/](https://hanswhan.github.io/))
-- Ralph Uy ([https://ralph-uy-aes.github.io/](https://ralph-uy-aes.github.io/))
-- Zeyao Zhou ([https://zeyaoz.github.io/](https://zeyaoz.github.io/))
-
 ## Mockup Page Ideas
 
 This project will be structured similarly to a renting/borrowing website with a central authority that manages what items can be borrowed and who can borrow them. 
@@ -117,24 +108,6 @@ Like the equipment page, the rooms page is the central hub for all locational re
 
 This page is the informational panel for users who are currently borrowing physical equipment or in-person spaces at any particular campus. Here, users can see what resources they are borrowing, its type, and its return deadline. 
 
-## Milestone 1 
-
-You can access our Milestone 1 Dashboard here:
-
-[https://github.com/orgs/campus-resource-scheduler-project/projects/1](https://github.com/orgs/campus-resource-scheduler-project/projects/1)
-
-## Milestone 2
-
-You can access our Milestone 2 Dashboard here:
-
-[https://github.com/orgs/campus-resource-scheduler-project/projects/2](https://github.com/orgs/campus-resource-scheduler-project/projects/2)
-
-## Milestone 3
-
-You can access our Milestone 3 Dashboard here:
-
-[https://github.com/orgs/campus-resource-scheduler-project/projects/4](https://github.com/orgs/campus-resource-scheduler-project/projects/4)
-
 # Overview
 
 Welcome to the documentation of the Campus Resource Scheduler application! As a part of the UH community, this project team wanted to solve a problem common to all students attending school on a UH campus - where to borrow a resource that they will need for some time? The Campus Resource Scheduler or CRS application aims to solve this problem by providing a central hub of both physical resources and locational resources to any UH community member who may need it for a set time. This system stores an online database of available resources that users can choose from, pick up at a specified location, and return to the same location. 
@@ -153,3 +126,30 @@ Users who engage with the CRS application will be able to customize their profil
 
 # Community Feedback
 **TBA**
+
+## Milestone 1 
+
+You can access our Milestone 1 Dashboard here:
+
+[https://github.com/orgs/campus-resource-scheduler-project/projects/1](https://github.com/orgs/campus-resource-scheduler-project/projects/1)
+
+## Milestone 2
+
+You can access our Milestone 2 Dashboard here:
+
+[https://github.com/orgs/campus-resource-scheduler-project/projects/2](https://github.com/orgs/campus-resource-scheduler-project/projects/2)
+
+## Milestone 3
+
+You can access our Milestone 3 Dashboard here:
+
+[https://github.com/orgs/campus-resource-scheduler-project/projects/4](https://github.com/orgs/campus-resource-scheduler-project/projects/4)
+
+## The Group Behind the Project
+
+This is the group that developed the **Campus Resource Scheduler**.
+- Arthur Acenas ([https://acenasa.github.io/](https://acenasa.github.io/))
+- Eric Chae ([https://ericc808.github.io/](https://ericc808.github.io/))
+- Sungwon Han ([https://hanswhan.github.io/](https://hanswhan.github.io/))
+- Ralph Uy ([https://ralph-uy-aes.github.io/](https://ralph-uy-aes.github.io/))
+- Zeyao Zhou ([https://zeyaoz.github.io/](https://zeyaoz.github.io/))
