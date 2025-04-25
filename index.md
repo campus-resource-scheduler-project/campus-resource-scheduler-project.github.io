@@ -118,7 +118,11 @@ Users who engage with the CRS application will be able to customize their profil
 
 # User Guide
 
+This section provides a detailed walkthrough of the Campus Resource Scheduler user interface, its pages, and its functionalities.
 
+![](images/landing.png)
+
+![](images/home.png)
 
 # Developer Guide
 
