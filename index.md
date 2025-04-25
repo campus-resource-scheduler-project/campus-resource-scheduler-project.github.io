@@ -134,7 +134,41 @@ If an existing user is accessing the website, they can sign in to the website by
 
 ### Home Page
 
-Once the user logs in, they will have more options presented to them. They will be able to choose between borrowing equipment, borrowing rooms, looking at what resources they have borrowed, or using the AI chatbot focused on helping them find the right resource.
+Once the user logs in, they will have more options presented to them. They will be able to choose between borrowing equipment, borrowing rooms, looking at what resources they have borrowed, or using the AI chatbot focused on helping them find the right resource. The home page contains a short tutorial on all of the functionality of the website as well as feature a few resources that were recently made available on the website.
+
+### Equipment Page
+
+If the user wants to borrow a physical resource, clicking on the "Equipment" tab in the navbar will bring them to a page containing all available physical equipment. Each physical resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available physical equipment by campus and by category. To borrow a physical resource, the user can click the borrow button the bottom of a resource box.
+
+### Rooms Page
+
+If the user wants to borrow a locational resource, clicking on the "Rooms" tab in the navbar will bring them to a page containing all available locational equipment. Each locational resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available locational equipment by campus and by category. To borrow a locational resource, the user can click the borrow button the bottom of a resource box.
+
+### Your Resources Page
+
+If the user wants to check what resources they have currently borrowed, clicking on the "Your Resources" tab in the navbar will bring them to a page containing all resources that they have borrowed, whether physical or locational. Each resource listed contains important information such as category, posted date, campus, room, and return deadline. The user will be able to return their specific resource by clicking the return deadline button on the bottom of a resource box.
+
+### LoanLink Page
+
+If the user wants to receive suggestions on what available resource best suits their needs, clicking on the "LoanLink" tab in the navbar will bring them to a page that allows them to send a text prompt to a AI chatbot. The chatbot will then respond with its own message directing the user to a available resource that fits the occasion based on the prompt and the user's profile.
+
+### Profile Page 
+
+If the user wants to customize their profile, clicking on the box containing their email in the upper right corner of the page and then clicking "Profile" will bring them to their profile page. Here, the user can edit their profile and change their name, profile picture, occupation, bio, major, class standing, campus, and phone number. This information will be private to that user only, and exists to help the LoanLink chatbot to generate a more relevant answer to any requests the user may have.
+
+### Sign Out and Change Password Pages
+
+If the user wants to sign our of the website, clicking on the box containing their email in the upper right corner of the page and then clicking "Sign Out" will bring them to a page that will allow them to sign out.
+
+If the user wants to change their account password, clicking on the box containing their email in the upper right corner of the page and then clicking "Change Password" will bring them to a page that will allow them to change their password by inputting the user's old password and putting in a new password.
+
+### Admin Home Page
+
+If the user has admin permissions, their home page will contain a list of all resources in the database along with each resource's relevant information such as owner, type, category, location, campus, and posted date.
+
+### Configure Resources Page 
+
+If the user hs admin permissions, clicking on the "Configure Resources" tab in the navbar will bring them to a page containing all the resources in the database. The user will then have an option to edit or delete each resource, as well as add new resources through a form. The changes will then be updated for every user in the system.
 
 # Developer Guide
 
