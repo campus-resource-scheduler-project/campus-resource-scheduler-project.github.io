@@ -459,6 +459,21 @@ You can access our Milestone 3 Dashboard here:
 
 [https://github.com/orgs/campus-resource-scheduler-project/projects/4](https://github.com/orgs/campus-resource-scheduler-project/projects/4)
 
+# Community Feedback
+
+The following section contains community feedback from 5 UH community members who tested the Campus Resource Scheduler application's functionalities and capabilities. This is broken down into their general impression of the application, what they liked about the application, what they disliked about the application, and what how the application can be changed in order to make it better. 
+Here are their responses:
+
+### UH Community Member 1:
+
+### UH Community Member 2:
+
+### UH Community Member 3:
+
+### UH Community Member 4:
+
+### UH Community Member 5:
+
 ## The Group Behind the Project
 
 This is the group that developed the **Campus Resource Scheduler**.
