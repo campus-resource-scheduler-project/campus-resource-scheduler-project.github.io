@@ -365,8 +365,20 @@ app/
   available-rooms/
     page.tsx # The Rooms Page
 
+  edit/
+    page.tsx # The Edit User Form
+
+  loanlink/
+    page.tsx # The LoanLink Page
+
   not-authorized/
     page.tsx # The Not Authorized Page
+
+  profile/
+    page.tsx # The Profile Page
+
+  resources/
+    page.tsx # The Your Resources Page
 
   layout.tsx # The layout of the application
 
@@ -375,15 +387,17 @@ app/
   providers.tsx # Session providers.
 
   components/
-    AddContactForm.tsx # The React Hook Form for adding contacts.
+    AddResourceForm.tsx # The React Hook Form for adding resources.
 
-    AddNoteForm.tsx # The React Hook Form for adding notes.
+    AvailableEquipment.tsx # The Equipment page.
 
-    ContactCard.tsx # The component for each contact card.
+    AvailableRooms.tsx # The rooms page.
 
-    ContactCardAdmin.tsx # The component for each contact card in the admin contacts overview page.
+    EditResourceForm.tsx # The Edit Resources Form.
 
-    EditContactForm.tsx # The Edit Contact Form.
+    FilterSidebarEquipment.tsx # The sidebar filter for the Equipment page.
+
+    FilterSidebarRooms.tsx # The sidebar filter for the Rooms page.
 
     Footer.tsx # The application footer.
 
@@ -391,7 +405,9 @@ app/
 
     Navbar.tsx # The application navbar.
 
-    NoteItem.tsx # The component for each note.
+    Popup.tsx # The Edit Profile form.
+
+    YourResources.tsx # The Your Resources page.
 
   lib/
 
@@ -412,6 +428,7 @@ app/
 ### Application functionality
 
 The application implements a simple resources application for managing different resources for each user, which is a PostgreSQL table consisting of a
+```
 id        Int
 name      String
 category  String
@@ -422,8 +439,10 @@ campus    String
 image     String
 posted    String
 deadline  String?
+```
 
 The application also implements a PostgreSQL table for each user consisting of a
+```
 id       Int    
 email    String 
 password String
@@ -437,6 +456,7 @@ standing String
 campus   String
 phone    String
 personal String
+```
 
 By default, each user only sees the resources that they own. However, the settings file enables you to define default accounts. If you define a user with the role "admin", then that user gets access to a special page which lists all the contacts defined by all users.
 
