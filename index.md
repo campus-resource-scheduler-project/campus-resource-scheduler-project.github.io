@@ -140,25 +140,25 @@ If an existing user is accessing the website, they can sign in to the website by
 
 ![](images/home.png)
 
-Once the user logs in, they will have more options presented to them. They will be able to choose between borrowing equipment, borrowing rooms, looking at what resources they have borrowed, or using the AI chatbot focused on helping them find the right resource. The home page contains a short tutorial on all of the functionality of the website as well as feature a few resources that were recently made available on the website.
+Once the user logs in, they will have more options presented to them. They will be able to choose between borrowing equipment, borrowing rooms, looking at what resources they have borrowed, or using the AI chatbot focused on helping them find the right resource. The home page contains a short tutorial on all of the functionality of the website as well as feature a few resources that were recently made available on the website. The home page also displays 3 resources that were made recently available.
 
 ### Equipment Page
 
 ![](images/equipment.png)
 
-If the user wants to borrow a physical resource, clicking on the "Equipment" tab in the navbar will bring them to a page containing all available physical equipment. Each physical resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available physical equipment by campus and by category. To borrow a physical resource, the user can click the borrow button the bottom of a resource box.
+If the user wants to borrow a physical resource, clicking on the "Equipment" tab in the navbar will bring them to a page containing all available physical equipment. Each physical resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available physical equipment by campus and by category. To borrow a physical resource, the user can click the "Borrow" button the bottom of a resource box.
 
 ### Rooms Page
 
 ![](images/rooms.png)
 
-If the user wants to borrow a locational resource, clicking on the "Rooms" tab in the navbar will bring them to a page containing all available locational equipment. Each locational resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available locational equipment by campus and by category. To borrow a locational resource, the user can click the borrow button the bottom of a resource box.
+If the user wants to borrow a locational resource, clicking on the "Rooms" tab in the navbar will bring them to a page containing all available locational equipment. Each locational resource contains important information such as category, posted date, campus, and room. The user will also be able to filter the available locational equipment by campus and by category. To borrow a locational resource, the user can click the "Reserve" button the bottom of a resource box.
 
 ### Your Resources Page
 
 ![](images/resources.png)
 
-If the user wants to check what resources they have currently borrowed, clicking on the "Your Resources" tab in the navbar will bring them to a page containing all resources that they have borrowed, whether physical or locational. Each resource listed contains important information such as category, posted date, campus, room, and return deadline. The user will be able to return their specific resource by clicking the return deadline button on the bottom of a resource box.
+If the user wants to check what resources they have currently borrowed, clicking on the "Your Resources" tab in the navbar will bring them to a page containing all resources that they have borrowed, whether physical or locational. Each resource listed contains important information such as category, posted date, campus, room, and return deadline. The user will be able to return their specific resource by clicking the return by button on the bottom of a resource box.
 
 ### LoanLink Page
 
@@ -170,7 +170,9 @@ If the user wants to receive suggestions on what available resource best suits t
 
 ![](images/profile.png)
 
-If the user wants to customize their profile, clicking on the box containing their email in the upper right corner of the page and then clicking "Profile" will bring them to their profile page. Here, the user can edit their profile and change their name, profile picture, occupation, bio, major, class standing, campus, and phone number. This information will be private to that user only, and exists to help the LoanLink chatbot to generate a more relevant answer to any requests the user may have.
+If the user wants to customize their profile, clicking on the box containing their email in the upper right corner of the page and then clicking "Profile" will bring them to their profile page. Here, the user can edit their profile and change their bio, major, standing, campus, phone number, and personal email address. This information will be private to that user only, and exists to help the LoanLink chatbot to generate a more relevant answer to any requests the user may have.
+
+![](images/editbio.png)
 
 ### Sign Out and Change Password Pages
 
@@ -186,13 +188,15 @@ If the user wants to change their account password, clicking on the box containi
 
 ![](images/adminhome.png)
 
-If the user has admin permissions, their home page will contain a list of all resources currently being borrowed by other users in the database along with each resource's relevant information such as owner, type, category, location, campus, and posted date.
+If the user has admin permissions, their home page will contain a list of all resources currently being borrowed by other users in the database along with each resource's relevant information such as owner, type, location, campus, and posted date.
 
 ### Configure Resources Page 
 
 ![](images/admin.png)
 
-If the user hss admin permissions, clicking on the "Admin" tab in the navbar will bring them to a page containing all the resources in the database. The user will then have an option to edit or delete each resource, as well as add new resources through a form. The changes will then be updated for every user in the system.
+If the user has admin permissions, clicking on the "Admin" tab in the navbar will bring them to a page containing all the resources in the database. The user will then have an option to edit or delete each resource, as well as add new resources through a form. The changes will then be updated for every user in the system.
+
+![](images/add.png)
 
 # Developer Guide
 
