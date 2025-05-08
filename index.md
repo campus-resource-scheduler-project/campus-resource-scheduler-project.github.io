@@ -530,13 +530,93 @@ Here are their responses:
 
 ### UH Community Member 1:
 
+#### General Impressions:
+
+Application is functional!
+
+#### What they Liked:
+
+The resources were easy to find, the filters in the Equipment and Rooms pages were helpful, the UI looked clean, the website was navigable, and the pictures were an added bonus.
+
+#### What they Disliked:
+
+The containers for each resource has too much clutter, and the time posted notation is not intuitive. The AI chatbot is currently not tailored towards the application. The categorites for equipment could be more discrete and clear. Overall, the website is a bit sluggish and the popups do not fit the website's asthetic.
+
+#### What can be Improved:
+
+Changes can be made to improve the individual components' UI and towards the AI chatbot to change it to be more in-line with the overall website.
+
 ### UH Community Member 2:
+
+#### General Impressions:
+
+The CRS has a clean design with good functionality.
+
+#### What they Liked:
+
+The website was easy and intuitive to use. The UI is visually appealing and it was easy to find what they were looking for.
+
+#### What they Disliked:
+
+There is no way to search for specific items.
+
+#### What can be Improved:
+
+There should be an option to select multiple things at the same time to add or remove. A search function would also be very helpful for searching specific resources.
 
 ### UH Community Member 3:
 
+#### General Impressions:
+
+Application with AI integration is functional!
+
+#### What they Liked:
+
+The different pictures for each resource were very amusing.
+
+#### What they Disliked:
+
+The notifications being a browser popup does not match the asthetic of the website. The AI is currently not very robust in helping users find specific resources.
+
+#### What can be Improved:
+
+A search functionality for specific resources would be very helpful if implemented.
+
 ### UH Community Member 4:
 
+#### General Impressions:
+
+The website and the navbar buttons are very functional and clean. The app itself applies to UH as a whole.
+
+#### What they Liked:
+
+The buttons were laid out in a very clear manner.
+
+#### What they Disliked:
+
+More instructions need to be added to the landing and user home pages, so the user undestands the functionality of the website.
+
+#### What can be Improved:
+
+Explanations on what each of the navbar buttons do needs to be added so that the first-time user can quickly and easily figure out what the application is for and how to use it.
+
 ### UH Community Member 5:
+
+#### General Impressions:
+
+Application is solid overall, but the background image was confusing as the application is for all UH campuses.
+
+#### What they Liked:
+
+The filter selection being at the forefront of the page made it helpful to guide users in the direction to find the correct resources. The LoanLink chatbot was also cool to use.
+
+#### What they Disliked:
+
+The "Your Resources" page on the website was unintuitive on how to return the items. It was also hard to find the profile section as a profile icon would be more suitable for accessing this page.
+
+#### What can be Improved:
+
+Headers could be used for wach college/institution to easily distinguish what location each resource is at rather than looking for the campus name at the bottom of each resource box.
 
 ## The Group Behind the Project
 
