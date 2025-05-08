@@ -340,9 +340,6 @@ The src/ directory has this structure:
 
 app/
 
-  add/ # The add route
-    page.tsx # The Add Contacts Page
-
   admin/
     page.tsx # The Admin Page
 
@@ -362,11 +359,11 @@ app/
     signup/
       page.tsx # The Sign Up / Register Page
 
-  edit/
-    page.tsx # The Edit Contact Page
+  available-equipment/
+    page.tsx # The Equipment Page
 
-  list/
-    page.tsx # The List Contacts Page
+  available-rooms/
+    page.tsx # The Rooms Page
 
   not-authorized/
     page.tsx # The Not Authorized Page
@@ -398,6 +395,8 @@ app/
 
   lib/
 
+    authOptions.ts # Verifies user credentials from the database.
+
     dbActions.ts # Functions to manipulate the Postgres database.
 
     page-protections.ts # Functions to check for logged in users and their roles.
@@ -412,17 +411,34 @@ app/
 
 ### Application functionality
 
-The application implements a simple contacts application for managing different contacts for each user, which is a PostgreSQL table consisting of a
-id          Int    
-firstName   String
-lastName    String
-address     String
-image       String
-description String
-notes       Note[]
-owner       String
+The application implements a simple resources application for managing different resources for each user, which is a PostgreSQL table consisting of a
+id        Int
+name      String
+category  String
+type      String
+owner     String
+location  String
+campus    String
+image     String
+posted    String
+deadline  String?
 
-By default, each user only sees the contact that they have created. However, the settings file enables you to define default accounts. If you define a user with the role "admin", then that user gets access to a special page which lists all the contacts defined by all users.
+The application also implements a PostgreSQL table for each user consisting of a
+id       Int    
+email    String 
+password String
+role     Role   
+name     String
+image    String
+occupation String
+bio      String
+major    String
+standing String
+campus   String
+phone    String
+personal String
+
+By default, each user only sees the resources that they own. However, the settings file enables you to define default accounts. If you define a user with the role "admin", then that user gets access to a special page which lists all the contacts defined by all users.
 
 ### CSS
 
