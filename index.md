@@ -128,7 +128,11 @@ The landing page is presented to everyone who visits the top-level URL to the we
 
 ### Sign Up and Sign In Pages
 
+![](images/signup.png)
+
 If a new user is accessing the website, they have the option to register as a new user by clicking the "Login" button in the upper right corner of the page, clicking "Sign Up", registering their email address, and deciding on a password. 
+
+![](images/signin.png)
 
 If an existing user is accessing the website, they can sign in to the website by clicking the "Login" button in the upper right corner of the page, clicking "Sign In", entering their email address, and inputting their password. 
 
