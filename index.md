@@ -505,6 +505,10 @@ The config directory is intended to hold settings files. The repository contains
 
 The .gitignore file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
 
+### Entity Relationship Diagram (ERD)
+
+![](images/ERD.png)
+
 ## Milestone 1 
 
 You can access our Milestone 1 Dashboard here:
